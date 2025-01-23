@@ -15,6 +15,11 @@ Create reusable digital signatures.
 Annotate or sketch for documents.
 Save and reuse designs conveniently.
 This project combines creativity with functionality, delivering a versatile tool for personal and professional use.
+THIS IS HOW THE WEBPAGE LOOKS LIKE : 
 ![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/3317320e6422d34efec3ef36de6c46f86489086c/images/front.png)
+MY SIGNATURE : 
 ![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/9c7516b9e67e0f01e7edfc0c96d0394b2af1fee3/images/Screenshot%202025-01-23%20135806.png)
+I CAN SAVE AND DOWNLOAD IT AS WELL TO MY  LOCAL STORAGE  : 
 ![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/e46248279fcbe560aadceeb85689821b75880b03/images/Screenshot%202025-01-23%20135939.png)
+DOWNLOADED SIGNATURE : 
+![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/1607d274cd5625497adcd91c85a63c2d53df019c/images/Screenshot%202025-01-23%20135951.png)
