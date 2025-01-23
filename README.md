@@ -16,3 +16,4 @@ Annotate or sketch for documents.
 Save and reuse designs conveniently.
 This project combines creativity with functionality, delivering a versatile tool for personal and professional use.
 ![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/3317320e6422d34efec3ef36de6c46f86489086c/images/front.png)
+![image alt](https://github.com/Aarsh-s-Lal/QuickSign/blob/9c7516b9e67e0f01e7edfc0c96d0394b2af1fee3/images/Screenshot%202025-01-23%20135806.png)
