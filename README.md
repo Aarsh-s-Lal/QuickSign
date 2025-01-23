@@ -1,2 +1,17 @@
 # QuickSign
 This web-based application enables users to create, customize, and manage digital signatures effortlessly. Using HTML, CSS, and JavaScript, it offers an intuitive interface for drawing, saving, and retrieving signatures locally.
+Key Features:
+Customizable Canvas: Adjustable pen colors and line thickness.
+Background Options: Change canvas background color.
+Save & Retrieve: Store drawings locally and access them anytime.
+Clear Canvas: Instantly reset the canvas for new creations.
+Downloadable: Export signatures as PNG images.
+Responsive Design: Compatible with various devices.
+Technologies Used:
+HTML & CSS: For structure and an attractive, responsive design.
+JavaScript: For canvas interaction, event handling, and data storage.
+Use Cases:
+Create reusable digital signatures.
+Annotate or sketch for documents.
+Save and reuse designs conveniently.
+This project combines creativity with functionality, delivering a versatile tool for personal and professional use.
